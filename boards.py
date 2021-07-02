@@ -1,3 +1,6 @@
+#this file just has some winning configurations for ez reference
+
+
 # winner 2
 board1 = [[2, 2, 0],
 	[2, 1, 0],
